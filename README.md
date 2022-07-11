@@ -17,3 +17,17 @@ Datan visas upp på olika sidor som beskrivs nedan:
     - status
     - totalsumma
     - datum
+
+
+## Sneak peak: 
+
+![Beställningar](https://user-images.githubusercontent.com/90898648/178287373-3a3f4970-0cdb-46ed-b0a9-29fa76563b05.JPG)
+
+![Beställningar - kundinfo](https://user-images.githubusercontent.com/90898648/178287395-e8af7479-4a51-41bf-85ad-211510f0b0bb.JPG)
+
+![Inlägg](https://user-images.githubusercontent.com/90898648/178287420-b4434218-ce39-4d30-8711-64ec459eaa2b.JPG)
+
+![Produkter](https://user-images.githubusercontent.com/90898648/178287478-a07cdd2f-9567-4eda-9af6-547833329274.JPG)
+
+![Media](https://user-images.githubusercontent.com/90898648/178287440-01c584f9-00cf-444c-94ca-6fbfca2e9f07.JPG)
+
